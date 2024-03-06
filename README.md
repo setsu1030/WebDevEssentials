@@ -12,6 +12,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Struts](#struts)
 - [Spring Framework](#spring-framework)
 - [Apache HTTP Server](#apache-http-server)
+- [Nginx](nginx)
 
 ## HTML
 ### ロゴ
@@ -125,3 +126,15 @@ SSL/TLSによる暗号化通信をサポートし、設定ファイルを通じ�
 その信頼性と柔軟性により、Apacheは長年にわたって多くのWebサイトやアプリケーションの基盤として利用されてきました。
 ### サイト
 - [Welcome! - The Apache HTTP Server Project](https://httpd.apache.org/)
+
+## Nginx
+### ロゴ
+<img src="images/logos_nginx.svg" width="300">
+
+### 概要
+Nginxは、高性能なHTTPおよびリバースプロキシサーバー、メールプロキシサーバーの機能を有するオープンソースソフトウェアです。  
+非同期イベント駆動アーキテクチャにより高パフォーマンスと安定性を実現し、軽量でメモリ効率が良いことを特長としています。  
+静的コンテンツの迅速な配信、ロードバランシング、フォルトトレランスをサポートする他、SSLおよびTLSによるセキュリティの強化や、柔軟で拡張性の高い設定が可能です。  
+これらの特長により、Nginxは世界中の多くの高トラフィックサイトで広く利用されています。
+### サイト
+- [NGINX(エンジンエックス)｜日本公式サイト](https://www.nginx.co.jp/)
