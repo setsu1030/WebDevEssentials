@@ -11,6 +11,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Apache Tomcat](#apache-tomcat)
 - [Struts](#struts)
 - [Spring Framework](#spring-framework)
+- [Apache HTTP Server](#apache-http-server)
 
 ## HTML
 ### ロゴ
@@ -112,3 +113,15 @@ Spring FrameworkはJava用のオープンソースアプリケーションフレ
 これらの機能によって、Spring Frameworkは企業向けアプリケーション開発において柔軟性、強力な機能性、簡潔な開発モデルを提供し、広く採用されています。
 ### サイト
 - [Spring Framework](https://spring.io/projects/spring-framework)
+
+## Apache HTTP Server
+### ロゴ
+<img src="images/logos_apache.svg" height="300">
+
+### 概要
+Apache HTTP Serverは世界中で広く使用されているWebサーバーソフトウェアで、オープンソースで開発され、多機能かつ拡張性に富むモジュール式アーキテクチャを有しています。  
+SSL/TLSによる暗号化通信をサポートし、設定ファイルを通じて高度なカスタマイズが可能です。  
+また、様々なオペレーティングシステムで利用できることも特長の一つです。  
+その信頼性と柔軟性により、Apacheは長年にわたって多くのWebサイトやアプリケーションの基盤として利用されてきました。
+### サイト
+- [Welcome! - The Apache HTTP Server Project](https://httpd.apache.org/)
