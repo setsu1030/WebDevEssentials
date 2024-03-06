@@ -15,6 +15,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Nginx](#nginx)
 - [PostgreSQL](#postgresql)
 - [MySQL](#mysql)
+- [SQL](sql)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -153,3 +154,13 @@ SQLを用いてデータを操作し、多くのオペレーティングシス�
 Oracle Corporationが開発とサポートを行っており、使いやすさ、柔軟性、堅牢な機能セットにより、小規模プロジェクトから大規模エンタープライズアプリケーションまで幅広い用途で信頼されています。
 ### サイト
 - [MySQL](https://www.mysql.com/jp/)
+
+## SQL
+<img src="images/ph_file-sql.svg" height="300">
+
+### 概要
+SQL（Structured Query Language）は、リレーショナルデータベース管理システム（RDBMS）でのデータ管理に用いられる標準の言語です。  
+この言語は、データの定義、操作、および制御を目的としており、データベーススキーマの作成や変更、データの挿入・更新・削除、特定情報を検索するクエリの実行、データの整合性やセキュリティの維持、トランザクションの管理を行うことができます。  
+効率的なデータ管理とビジネス要件に柔軟に対応するため、広く利用されています。
+### サイト
+- [SQL - Wikipedia](https://ja.wikipedia.org/wiki/SQL)
