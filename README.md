@@ -13,6 +13,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Spring Framework](#spring-framework)
 - [Apache HTTP Server](#apache-http-server)
 - [Nginx](#nginx)
+- [PostgreSQL](#postgresql)
 
 ## HTML
 ### ロゴ
@@ -138,3 +139,16 @@ Nginxは、高性能なHTTPおよびリバースプロキシサーバー、メ�
 これらの特長により、Nginxは世界中の多くの高トラフィックサイトで広く利用されています。
 ### サイト
 - [NGINX(エンジンエックス)｜日本公式サイト](https://www.nginx.co.jp/)
+
+## PostgreSQL
+### ロゴ
+<img src="images/logos_postgresql.svg" width="300">
+
+### 概要
+PostgreSQLは、高度な機能、信頼性、及び拡張性を提供するオープンソースのオブジェクトリレーショナルデータベースシステムです。  
+商用データベースと匹敵する機能を有し、SQL言語の幅広い標準及びプロシージャ言語のサポートを特長としています。  
+トランザクション管理と同時実行制御を通じてデータの整合性を維持し、地理空間データのサポート（PostGISを通じ）でGISシステムへの対応も可能にします。  
+さらに、多様なインデックスタイプ、フルテキスト検索、複雑なクエリの最適化、高度なセキュリティ機能、及び拡張性の高い認証システムを搭載しています。  
+これらの特長により、PostgreSQLは多様なアプリケーションで堅牢なデータベース管理システムとして広く用いられています。
+### サイト
+- [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
