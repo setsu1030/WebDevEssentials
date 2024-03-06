@@ -12,7 +12,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Struts](#struts)
 - [Spring Framework](#spring-framework)
 - [Apache HTTP Server](#apache-http-server)
-- [Nginx](nginx)
+- [Nginx](#nginx)
 
 ## HTML
 ### ロゴ
