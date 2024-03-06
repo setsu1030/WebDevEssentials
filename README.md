@@ -17,7 +17,6 @@ Web開発で用いられる技術の概要を載せています。
 - [MySQL](#mysql)
 
 ## HTML
-### ロゴ
 <img src="images/logos_html-5.svg" height="300">
 
 ### 概要
@@ -28,7 +27,6 @@ HTML文書は、メタデータ、表示されるコンテンツ、リンク、�
 ### サイト
 - [HTML の基本 - ウェブ開発を学ぶ | MDN](https://developer.mozilla.org/ja/docs/Learn/Getting_started_with_the_web/HTML_basics)
 ## JavaScript
-### ロゴ
 <img src="images/logos_javascript.svg" width="300">
 
 ### 概要
@@ -40,7 +38,6 @@ JavaScriptは、多様なデータ型、関数、ECMAScript標準の発展、プ
 - [JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
 ## CSS
-### ロゴ
 <img src="images/logos_css-3.svg" height="300">
 
 ### 概要
@@ -53,7 +50,6 @@ CSSは、HTMLとJavaScriptとともに、ウェブ開発の核となる技術で
 - [CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS)
 
 ## jQuery
-### ロゴ
 <img src="images/logos_jquery.svg" width="300">
 
 ### 概要
@@ -65,7 +61,6 @@ jQueryのメソッドはチェーン可能であり、複数の操作を簡潔�
 - [jQuery](https://jquery.com/)
 
 ## Java
-### ロゴ
 <img src="images/logos_java.svg" height="300">
 
 ### 概要
@@ -80,7 +75,6 @@ Javaはウェブ、エンタープライズ、モバイル（特にAndroid）、
 - [Java | Oracle](https://www.java.com/ja/)
 
 ## Apache Tomcat
-### ロゴ
 <img src="images/logos_tomcat.svg" width="300">
 
 ### 概要
@@ -94,7 +88,6 @@ Apache Tomcatは、信頼性と拡張性に優れたJavaベースのWebアプリ
 - [Apache Tomcat® - Welcome!](https://tomcat.apache.org/)
 
 ## Struts
-### ロゴ
 <img src="images/logos_struts.svg" width="300">
 
 ### 概要
@@ -107,7 +100,6 @@ Apache Software Foundationによって管理されているこのフレームワ
 - [Welcome to the Apache Struts project](https://struts.apache.org/)
 
 ## Spring Framework
-### ロゴ
 <img src="images/logos_spring.svg" width="300">
 
 ### 概要
@@ -118,7 +110,6 @@ Spring FrameworkはJava用のオープンソースアプリケーションフレ
 - [Spring Framework](https://spring.io/projects/spring-framework)
 
 ## Apache HTTP Server
-### ロゴ
 <img src="images/logos_apache.svg" height="300">
 
 ### 概要
@@ -130,7 +121,6 @@ SSL/TLSによる暗号化通信をサポートし、設定ファイルを通じ�
 - [Welcome! - The Apache HTTP Server Project](https://httpd.apache.org/)
 
 ## Nginx
-### ロゴ
 <img src="images/logos_nginx.svg" width="300">
 
 ### 概要
@@ -142,7 +132,6 @@ Nginxは、高性能なHTTPおよびリバースプロキシサーバー、メ�
 - [NGINX(エンジンエックス)｜日本公式サイト](https://www.nginx.co.jp/)
 
 ## PostgreSQL
-### ロゴ
 <img src="images/logos_postgresql.svg" width="300">
 
 ### 概要
@@ -155,7 +144,6 @@ PostgreSQLは、高度な機能、信頼性、及び拡張性を提供するオ�
 - [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
 
 ## MySQL
-### ロゴ
 <img src="images/logos_mysql.svg" width="300">
 
 ### 概要
