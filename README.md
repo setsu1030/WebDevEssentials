@@ -17,6 +17,7 @@ Web開発で用いられる技術の概要を載せています。
 - [MySQL](#mysql)
 - [SQL](#sql)
 - [Python](#python)
+- [Django](#django)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -178,3 +179,15 @@ Web開発、データ分析、人工知能など、さまざまな用途に適�
 ### サイト
 - [Welcome to Python.org](https://www.python.org/)
 
+
+## Django
+<img src="images/logos_django.svg" width="300">
+
+### 概要
+DjangoはPython製の高機能Webフレームワークであり、迅速な開発とプラグアンドプレイの哲学を提供します。  
+MTV（Model-Template-View）アーキテクチャを採用しており、強力なデータベース管理、フォーム処理、自動管理インターフェースの生成機能を備えています。  
+セキュリティ面では、SQLインジェクションやXSS攻撃に対する防御措置が講じられています。  
+さらに、豊富な拡張性と多数の追加パッケージの利用が可能です。  
+これらの特徴から、Djangoはセキュリティと拡張性に優れ、迅速な開発を支援するPythonベースのWeb開発フレームワークであると言えます。
+### サイト
+- [The web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
