@@ -15,7 +15,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Nginx](#nginx)
 - [PostgreSQL](#postgresql)
 - [MySQL](#mysql)
-- [SQL](sql)
+- [SQL](#sql)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
