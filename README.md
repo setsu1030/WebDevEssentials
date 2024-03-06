@@ -14,6 +14,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Apache HTTP Server](#apache-http-server)
 - [Nginx](#nginx)
 - [PostgreSQL](#postgresql)
+- [MySQL](#mysql)
 
 ## HTML
 ### ロゴ
@@ -152,3 +153,15 @@ PostgreSQLは、高度な機能、信頼性、及び拡張性を提供するオ�
 これらの特長により、PostgreSQLは多様なアプリケーションで堅牢なデータベース管理システムとして広く用いられています。
 ### サイト
 - [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
+
+## MySQL
+### ロゴ
+<img src="images/logos_mysql.svg" width="300">
+
+### 概要
+MySQLはGPLライセンスのもとで利用可能なオープンソースのリレーショナルデータベース管理システム（RDBMS）です。  
+SQLを用いてデータを操作し、多くのオペレーティングシステムに対応しています。  
+レプリケーションやパーティショニングなどの高度な機能を備え、特にWebベースのアプリケーションで広く使用されています。  
+Oracle Corporationが開発とサポートを行っており、使いやすさ、柔軟性、堅牢な機能セットにより、小規模プロジェクトから大規模エンタープライズアプリケーションまで幅広い用途で信頼されています。
+### サイト
+- [MySQL](https://www.mysql.com/jp/)
