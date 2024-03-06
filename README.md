@@ -16,6 +16,7 @@ Web開発で用いられる技術の概要を載せています。
 - [PostgreSQL](#postgresql)
 - [MySQL](#mysql)
 - [SQL](#sql)
+- [Python](#python)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -164,3 +165,16 @@ SQL（Structured Query Language）は、リレーショナルデータベース�
 効率的なデータ管理とビジネス要件に柔軟に対応するため、広く利用されています。
 ### サイト
 - [SQL - Wikipedia](https://ja.wikipedia.org/wiki/SQL)
+
+
+## Python
+<img src="images/logos_python.svg" width="300">
+
+### 概要
+Pythonは、読みやすくシンプルなコードを重視する汎用性の高いプログラミング言語です。  
+インタプリタ式でありコンパイルが不要で、オブジェクト指向、手続き型、関数型プログラミングをサポートしています。  
+自動メモリ管理と動的型付けを特徴とし、標準ライブラリやサードパーティ製のライブラリが豊富に存在します。  
+Web開発、データ分析、人工知能など、さまざまな用途に適用できるその柔軟性と多用途性から、幅広い範囲の開発者に支持されています。
+### サイト
+- [Welcome to Python.org](https://www.python.org/)
+
