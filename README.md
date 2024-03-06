@@ -10,6 +10,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Java](#java)
 - [Apache Tomcat](#apache-tomcat)
 - [Struts](#struts)
+- [Spring Framework](#spring-framework)
 
 ## HTML
 ### ロゴ
@@ -100,3 +101,14 @@ Apache Software Foundationによって管理されているこのフレームワ
 しかし、近年ではSpring MVCなどの他のフレームワークへの移行が増えている状況です。
 ### サイト
 - [Welcome to the Apache Struts project](https://struts.apache.org/)
+
+## Spring Framework
+### ロゴ
+<img src="images/logos_spring.svg" width="300">
+
+### 概要
+Spring FrameworkはJava用のオープンソースアプリケーションフレームワークであり、プログラミングと設定のための包括的なモデルを提供します。  
+その主要な特徴は、依存性注入（DI）による疎結合アプリケーションの開発支援、アスペクト指向プログラミング（AOP）に基づく宣言的トランザクション管理、モジュラーなコンポーネントの使用による開発の支援、Spring MVCを利用したWebアプリケーション開発の簡素化、そしてJDBCとORMフレームワークの統合によるデータアクセスの抽象化と簡易化にあります。  
+これらの機能によって、Spring Frameworkは企業向けアプリケーション開発において柔軟性、強力な機能性、簡潔な開発モデルを提供し、広く採用されています。
+### サイト
+- [Spring Framework](https://spring.io/projects/spring-framework)
