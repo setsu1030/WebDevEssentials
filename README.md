@@ -2,6 +2,14 @@
 Web開発で用いられる技術の概要を載せています。  
 **概要はChatGPTを使用して生成したものです。内容が誤っている可能性もあります。**
 
+**目次**
+- [HTML](#html)
+- [JavaScript](#javascript)
+- [CSS](#css)
+- [jQuery](#jquery)
+- [Java](#java)
+- [Apache Tomcat](#apache-tomcat)
+
 ## HTML
 ### ロゴ
 <img src="images/logos_html-5.svg" height="300">
