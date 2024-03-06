@@ -9,6 +9,7 @@ Web開発で用いられる技術の概要を載せています。
 - [jQuery](#jquery)
 - [Java](#java)
 - [Apache Tomcat](#apache-tomcat)
+- [Struts](#struts)
 
 ## HTML
 ### ロゴ
@@ -86,3 +87,16 @@ Apache Software Foundationが管理し、定期的な更新を通じてその信
 Apache Tomcatは、信頼性と拡張性に優れたJavaベースのWebアプリケーションの開発および展開に適した選択肢です。
 ### サイト
 - [Apache Tomcat® - Welcome!](https://tomcat.apache.org/)
+
+## Struts
+### ロゴ
+<img src="images/logos_struts.svg" width="300">
+
+### 概要
+Strutsは、JavaでのWebアプリケーション開発を支援するオープンソースフレームワークです。  
+これはMVC（Model-View-Controller）アーキテクチャに基づき設計されており、フォームデータのバリデーション、多言語対応の国際化、プラグインによる拡張性など、様々な特徴を備えています。  
+リクエストをアクションクラスにマッピングするアクションベースの仕組みを採用している点も特徴の一つです。  
+Apache Software Foundationによって管理されているこのフレームワークは、その拡張性の高さから多くの開発者に利用されています。  
+しかし、近年ではSpring MVCなどの他のフレームワークへの移行が増えている状況です。
+### サイト
+- [Welcome to the Apache Struts project](https://struts.apache.org/)
