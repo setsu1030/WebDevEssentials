@@ -37,3 +37,15 @@ CSSはウェブページのスタイリングに用いられ、HTML要素に色�
 CSSは、HTMLとJavaScriptとともに、ウェブ開発の核となる技術です。
 ### サイト
 - [CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS)
+
+## jQuery
+### ロゴ
+<img src="images/logos_jquery.svg" width="300">
+
+### 概要
+jQueryはJavaScriptのライブラリであり、DOM操作、イベントハンドリング、Ajax通信を容易にし、クロスブラウザ互換性を提供します。  
+これにより、要素の選択や変更、ユーザーイベントの処理、ビジュアルエフェクトの適用が容易になります。  
+jQueryのメソッドはチェーン可能であり、複数の操作を簡潔なコードで記述でき、多様なプラグインによって機能を拡張できます。  
+その軽量さと広範囲な利用により、jQueryはウェブ開発における標準的なツールの一つとして広く採用されています。
+### サイト
+- [jQuery](https://jquery.com/)
