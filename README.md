@@ -64,3 +64,17 @@ Javaはウェブ、エンタープライズ、モバイル（特にAndroid）、
 広範な開発者コミュニティ、学習資料、ドキュメント、フォーラムが存在し、その汎用性、安全性、移植性の高さから、世界中で広く使われています。
 ### サイト
 - [Java | Oracle](https://www.java.com/ja/)
+
+## Apache Tomcat
+### ロゴ
+<img src="images/logos_tomcat.svg" width="300">
+
+### 概要
+Apache Tomcatは、JavaサーブレットとJavaServer Pages（JSP）を実行するオープンソースのWebサーバーおよびサーブレットコンテナです。  
+このソフトウェアは無料で提供されており、ソースコードにもアクセスできます。  
+Javaを利用したWebアプリケーション開発に特化し、軽量性とスケーラビリティのバランスが取れているため、小規模から大規模なWebアプリケーションの開発に適しています。  
+Apache Software Foundationが管理し、定期的な更新を通じてその信頼性と最新性を保証しています。  
+設定と管理の容易さにより、開発者は迅速に開発環境を構築でき、多数の商用およびオープンソースWebアプリケーションで使用されています。  
+Apache Tomcatは、信頼性と拡張性に優れたJavaベースのWebアプリケーションの開発および展開に適した選択肢です。
+### サイト
+- [Apache Tomcat® - Welcome!](https://tomcat.apache.org/)
