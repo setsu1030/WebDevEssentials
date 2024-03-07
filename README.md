@@ -18,6 +18,8 @@ Web開発で用いられる技術の概要を載せています。
 - [SQL](#sql)
 - [Python](#python)
 - [Django](#django)
+- [Go](#go)
+- [Gin](#gin)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -191,3 +193,26 @@ MTV（Model-Template-View）アーキテクチャを採用しており、強力�
 これらの特徴から、Djangoはセキュリティと拡張性に優れ、迅速な開発を支援するPythonベースのWeb開発フレームワークであると言えます。
 ### サイト
 - [The web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
+
+## Go
+<img src="images/logos_go.svg" width="300">
+
+### 概要
+GoはGoogleが開発したオープンソースのプログラミング言語で、並行処理とネットワークサービスの開発に特化しています。  
+静的型付けによるコンパイル言語であり、シンプルかつ読みやすい文法が特徴です。  
+ゴルーチンとチャネルを使用した効率的な並行処理機能、統合ガベージコレクション、充実したツールチェーン（フォーマットツールやドキュメント生成ツールを含む）、広範囲に及ぶ標準ライブラリ（ネットワーキング、暗号化、データ処理など）を備えています。  
+そのシンプルさと高いパフォーマンスから、クラウドインフラストラクチャ、マイクロサービス、コマンドラインツールの開発で広く利用されています。
+### サイト
+- [The Go Programming Language](https://go.dev/)
+
+## Gin
+<img src="images/logos_gin.svg" height="300">
+
+### 概要
+GinはGo言語で開発されたWebフレームワークで、特に高速なHTTPルーティングとミドルウェア提供に重点を置いています。  
+最適化されたルーターを使用し、高速なHTTPリクエスト処理を実現するこのフレームワークは、認証、ログ記録、CORSなどの多様なミドルウェアの統合を容易にします。  
+JSONのシリアライズ/デシリアライズを簡易化し、エラー管理のための簡潔な方法を提供する点も特徴です。  
+さらに、効率的なURLルーティング、パラメータの抽出、HTMLテンプレートのレンダリング機能を備えています。  
+これらの機能により、GinはGo言語でのWeb開発を加速し、拡張性のあるアプリケーション構築を支援します。
+### サイト
+- [Gin Web Framework](https://gin-gonic.com/ja/)
