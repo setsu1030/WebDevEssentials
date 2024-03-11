@@ -11,6 +11,7 @@ Web開発で用いられる技術の概要を載せています。
 - [Apache Tomcat](#apache-tomcat)
 - [Struts](#struts)
 - [Spring Framework](#spring-framework)
+- [Spring Boot](#spring-boot)
 - [Apache HTTP Server](#apache-http-server)
 - [Nginx](#nginx)
 - [PostgreSQL](#postgresql)
@@ -113,6 +114,18 @@ Spring FrameworkはJava用のオープンソースアプリケーションフレ
 これらの機能によって、Spring Frameworkは企業向けアプリケーション開発において柔軟性、強力な機能性、簡潔な開発モデルを提供し、広く採用されています。
 ### サイト
 - [Spring Framework](https://spring.io/projects/spring-framework)
+
+## Spring Boot
+<img src="images/logos_spring.svg" width="300">
+
+### 概要
+Spring Bootは、Java向けの軽量開発フレームワークであり、Springフレームワークを基にしています。  
+このフレームワークにより、独立したSpringアプリケーションを容易に作成でき、組み込みのTomcat、Jetty、またはUndertowサーバーを利用して、Webアプリケーションを直ちに実行可能にします。  
+大規模な自動設定を提供し、開発者の設定作業を軽減しながら、依存関係の管理をスターターを通じて効率化します。  
+さらに、運用に必要な機能（ヘルスチェック、メトリクス）も内蔵してサポートします。  
+Spring Bootは、迅速かつ容易にエンタープライズレベルのアプリケーション開発を可能にすることを目指しています。
+### サイト
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
 ## Apache HTTP Server
 <img src="images/logos_apache.svg" height="300">
