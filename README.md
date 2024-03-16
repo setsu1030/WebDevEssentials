@@ -24,6 +24,7 @@ Web開発で用いられる技術の概要を載せています。
 - [React](#react)
 - [Kotlin](#kotlin)
 - [InnteliJ](#intellij)
+- [TypeScript](#typescript)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -264,3 +265,16 @@ IntelliJ IDEAは、Java、Kotlin、Groovy、Scalaを含む多言語に対応す�
 さらに、プラグインエコシステムを通じた機能拡張が可能です。これらの特長により、IntelliJ IDEAはプログラミングプロジェクトの開発におけるユーザーの生産性向上に幅広いサポートを提供します。
 ### サイト
 - [IntelliJ IDEA - Java と Kotlin の最先端 IDE](https://www.jetbrains.com/ja-jp/idea/)
+
+## TypeScript
+<img src="images/skill-icons--typescript.svg" width="300">
+
+### 概要
+TypeScriptは、JavaScriptに型システムを追加したオープンソースのプログラミング言語であり、静的型付けを提供します。  
+開発時の型チェックにより、エラーの発見を容易にし、より安全なコードの実装を可能にします。  
+JavaScriptのスーパーセットであるため、JavaScriptコードはすべてTypeScriptとして機能するのです。  
+クラス、インターフェース、モジュールなど、JavaScriptにはない追加機能を備え、大規模なアプリケーションの開発を支援します。  
+Microsoftによって開発され、多くのエディターやIDEでサポートされています。  
+コンパイル時には、JavaScriptへトランスパイルされ、どのJavaScript環境でも実行可能になります。TypeScriptは、強力な型システムと開発時のツールサポートを通じて、大規模アプリケーション開発をより効率的で管理しやすくすることを目的としています。
+### サイト
+- [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
