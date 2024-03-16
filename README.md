@@ -21,6 +21,9 @@ Web開発で用いられる技術の概要を載せています。
 - [Django](#django)
 - [Go](#go)
 - [Gin](#gin)
+- [React](#react)
+- [Kotlin](#kotlin)
+- [InnteliJ](#intellij)
 
 ## HTML
 <img src="images/logos_html-5.svg" height="300">
@@ -229,3 +232,35 @@ JSONのシリアライズ/デシリアライズを簡易化し、エラー管理
 これらの機能により、GinはGo言語でのWeb開発を加速し、拡張性のあるアプリケーション構築を支援します。
 ### サイト
 - [Gin Web Framework](https://gin-gonic.com/ja/)
+
+## React
+<img src="images/logos--react.svg" width="300">
+
+### 概要
+ReactはFacebookによって開発された、ユーザーインターフェース開発に特化したJavaScriptライブラリで、オープンソースプロジェクトとして提供されています。  
+このライブラリは再利用可能なUIコンポーネントの作成により開発プロセスを効率化し、仮想DOMを採用することで高速なレンダリングを可能にします。  
+JSXという独特の記法を通じて、JavaScriptとHTMLの要素を組み合わせた直感的で理解しやすいコードの記述が可能です。  
+Reactは特にシングルページアプリケーションの開発に適しており、React Nativeを用いることでiOSやAndroid向けのネイティブアプリケーションも開発できます。  
+この技術は宣言的UI開発と高性能なアプリケーション構築を支援し、現代のウェブ開発で広く採用されています。
+### サイト
+- [React](https://ja.react.dev/)
+
+## Kotlin
+<img src="images/logos--kotlin-icon.svg" width="300">
+
+### 概要
+Kotlinは静的型付けを採用したプログラミング言語で、主にAndroidアプリ開発にJavaの代わりとして使用されています。  
+JVM上で動作し、Javaと高い互換性を持つことが特徴です。  
+コンパイル時の安全性を重視した設計、ラムダ式や拡張関数などの現代的な機能のサポート、Android StudioやIntelliJ IDEAとの深い統合、非同期プログラミングを容易にするコルーチンの利用、そしてKotlin Multiplatformを通じたクロスプラットフォーム開発のサポートなど、モダンな言語機能とツールのサポートにより、ソフトウェア開発の多岐にわたる領域で採用が進んでいます。
+### サイト
+- [Kotlin Programming Language](https://kotlinlang.org/)
+
+## IntelliJ
+<img src="images/logos--intellij-idea.svg" width="300">
+
+### 概要
+IntelliJ IDEAは、Java、Kotlin、Groovy、Scalaを含む多言語に対応する統合開発環境（IDE）です。  
+高度なコード補完、リファクタリング、コード分析機能を備え、Maven、Gradle、Antなどのビルドシステム、GitやSVNなどのバージョン管理システムとの統合、デバッグやテストツールの組み込みサポート、データベースツールやTomcat、GlassFishとのサーバー統合機能を持ちます。  
+さらに、プラグインエコシステムを通じた機能拡張が可能です。これらの特長により、IntelliJ IDEAはプログラミングプロジェクトの開発におけるユーザーの生産性向上に幅広いサポートを提供します。
+### サイト
+- [IntelliJ IDEA - Java と Kotlin の最先端 IDE](https://www.jetbrains.com/ja-jp/idea/)
